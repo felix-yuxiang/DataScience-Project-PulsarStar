@@ -2,7 +2,7 @@
 
 ### About the course (DSCI100)
 
-UBC has offered a really nice course named dsci100. Although it is a brand new course targeting first-year student, the course material and syllabus are well designed. So it will
+UBC has offered a really nice course named dsci100. Although it is a brand new course targeting first-year students, the course material and syllabus are well designed. So it will
 be a nice elective for all the students who are interested in data science. Instructors, Trevor and Melissa, are sophisticated and friendly. They have adapted a flipped-class
 paradigm where students, TAs and instructors can communicate interactively. They really know how to teach this course and you will be able to appreciate the beauty of **data 
 manipulation, knn classification, knn & linear regression, k-means clustering and statistical inference (point estimation and bootstrapping)**. If you take this course, you tend
