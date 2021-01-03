@@ -7,7 +7,7 @@ be a nice elective for all the students who are interested in data science. Inst
 paradigm where students, TAs and instructors can communicate interactively. They really know how to teach this course and you will be able to appreciate the beauty of **data 
 manipulation, knn classification, knn & linear regression, k-means clustering and statistical inference (point estimation and bootstrapping)**. If you take this course, you tend
 to grasp the basic syntax of language R and do some awesome visualization of the dataset. Evaluation of some particular approaches has also been specified (cross-validation to 
-training set, testing set alone etc.). We have three quizzes, mulitple assignments and tutorials as well as instensive reading materials before each class.
+training set, testing set alone etc.). We have three quizzes, multiple assignments and tutorials as well as instensive reading materials before each class.
 
 Every topic in this course can be further developed and it is recommended to take future STAT courses after this course. 
 
